@@ -1,5 +1,5 @@
-member: {
-  [
+{
+  member: [
   {
     "orderId": 12345,
     "customer": {
