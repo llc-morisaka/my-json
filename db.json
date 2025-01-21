@@ -1,4 +1,5 @@
-[
+member: {
+  [
   {
     "orderId": 12345,
     "customer": {
@@ -164,3 +165,4 @@
     "deliveryStatus": "配送中"
   }
 ]
+}
