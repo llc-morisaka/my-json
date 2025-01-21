@@ -1,7 +1,7 @@
 {
   member: [
   {
-    "orderId": 12345,
+    "id": 12345,
     "customer": {
       "id": 67890,
       "name": "山田 太郎",
@@ -35,7 +35,7 @@
     "deliveryStatus": "配送準備中"
   },
   {
-    "orderId": 12346,
+    "id": 12346,
     "customer": {
       "id": 67891,
       "name": "佐藤 花子",
@@ -69,7 +69,7 @@
     "deliveryStatus": "配送中"
   },
   {
-    "orderId": 12347,
+    "id": 12347,
     "customer": {
       "id": 67892,
       "name": "鈴木 次郎",
@@ -97,7 +97,7 @@
     "deliveryStatus": "配達完了"
   },
   {
-    "orderId": 12348,
+    "id": 12348,
     "customer": {
       "id": 67893,
       "name": "高橋 美咲",
@@ -131,7 +131,7 @@
     "deliveryStatus": "キャンセル"
   },
   {
-    "orderId": 12349,
+    "id": 12349,
     "customer": {
       "id": 67894,
       "name": "伊藤 一郎",
