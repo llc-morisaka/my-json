@@ -1,0 +1,166 @@
+[
+  {
+    "orderId": 12345,
+    "customer": {
+      "id": 67890,
+      "name": "山田 太郎",
+      "email": "taro.yamada@example.com",
+      "phone": "090-1234-5678"
+    },
+    "orderDate": "2025-01-21T09:30:00Z",
+    "shippingAddress": {
+      "postalCode": "123-4567",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "addressLine1": "渋谷1-2-3",
+      "addressLine2": "マンション101号室"
+    },
+    "items": [
+      {
+        "productId": 111,
+        "name": "ノートパソコン",
+        "quantity": 1,
+        "price": 150000
+      },
+      {
+        "productId": 222,
+        "name": "マウス",
+        "quantity": 2,
+        "price": 2000
+      }
+    ],
+    "totalAmount": 154000,
+    "paymentStatus": "未払い",
+    "deliveryStatus": "配送準備中"
+  },
+  {
+    "orderId": 12346,
+    "customer": {
+      "id": 67891,
+      "name": "佐藤 花子",
+      "email": "hanako.sato@example.com",
+      "phone": "080-5678-1234"
+    },
+    "orderDate": "2025-01-20T14:15:00Z",
+    "shippingAddress": {
+      "postalCode": "987-6543",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "addressLine1": "梅田1-1-1",
+      "addressLine2": "オフィスビル10階"
+    },
+    "items": [
+      {
+        "productId": 333,
+        "name": "キーボード",
+        "quantity": 1,
+        "price": 8000
+      },
+      {
+        "productId": 444,
+        "name": "モニター",
+        "quantity": 2,
+        "price": 30000
+      }
+    ],
+    "totalAmount": 68000,
+    "paymentStatus": "支払い済み",
+    "deliveryStatus": "配送中"
+  },
+  {
+    "orderId": 12347,
+    "customer": {
+      "id": 67892,
+      "name": "鈴木 次郎",
+      "email": "jiro.suzuki@example.com",
+      "phone": "070-9876-5432"
+    },
+    "orderDate": "2025-01-19T08:00:00Z",
+    "shippingAddress": {
+      "postalCode": "543-2109",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "addressLine1": "天神2-3-4",
+      "addressLine2": "アパート202号室"
+    },
+    "items": [
+      {
+        "productId": 555,
+        "name": "スマートフォン",
+        "quantity": 1,
+        "price": 100000
+      }
+    ],
+    "totalAmount": 100000,
+    "paymentStatus": "支払い済み",
+    "deliveryStatus": "配達完了"
+  },
+  {
+    "orderId": 12348,
+    "customer": {
+      "id": 67893,
+      "name": "高橋 美咲",
+      "email": "misaki.takahashi@example.com",
+      "phone": "090-3333-4444"
+    },
+    "orderDate": "2025-01-18T10:45:00Z",
+    "shippingAddress": {
+      "postalCode": "111-2222",
+      "prefecture": "北海道",
+      "city": "札幌市中央区",
+      "addressLine1": "大通西1-2-3",
+      "addressLine2": "マンション503号室"
+    },
+    "items": [
+      {
+        "productId": 666,
+        "name": "ヘッドホン",
+        "quantity": 1,
+        "price": 15000
+      },
+      {
+        "productId": 777,
+        "name": "Bluetoothスピーカー",
+        "quantity": 1,
+        "price": 12000
+      }
+    ],
+    "totalAmount": 27000,
+    "paymentStatus": "未払い",
+    "deliveryStatus": "キャンセル"
+  },
+  {
+    "orderId": 12349,
+    "customer": {
+      "id": 67894,
+      "name": "伊藤 一郎",
+      "email": "ichiro.ito@example.com",
+      "phone": "080-1234-9876"
+    },
+    "orderDate": "2025-01-17T16:20:00Z",
+    "shippingAddress": {
+      "postalCode": "321-6543",
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "addressLine1": "栄1-2-3",
+      "addressLine2": "タワー301号室"
+    },
+    "items": [
+      {
+        "productId": 888,
+        "name": "タブレット",
+        "quantity": 1,
+        "price": 50000
+      },
+      {
+        "productId": 999,
+        "name": "保護フィルム",
+        "quantity": 3,
+        "price": 1000
+      }
+    ],
+    "totalAmount": 53000,
+    "paymentStatus": "支払い済み",
+    "deliveryStatus": "配送中"
+  }
+]
